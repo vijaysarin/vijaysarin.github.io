@@ -26,7 +26,7 @@ var ListItem = React.createClass({
     var style={paddingLeft:"5px", fontSize:"11px"};
     var label = this.props.text;
     var value = this.props.value;
-    var imagePath = "/reporting-tool/images/layout-icons/" + value + ".png";
+    var imagePath = "lll/reporting-tool/images/layout-icons/" + value + ".png";
     return(
       <div>
       <img src={imagePath}/>
