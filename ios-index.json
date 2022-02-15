@@ -12,7 +12,7 @@
     "image": "./assets/images/splash.png",
     "resizeMode": "contain",
     "backgroundColor": "#ffffff",
-    "imageUrl": "https://vijaysarin.github.io/android-index.json/assets/4dc203c1f48ad8b1e9734613e88be661"
+    "imageUrl": "https://vijaysarin.github.io/assets/4dc203c1f48ad8b1e9734613e88be661"
   },
   "updates": { "fallbackToCacheTimeout": 0 },
   "ios": { "supportsTablet": true },
@@ -20,7 +20,7 @@
     "adaptiveIcon": {
       "foregroundImage": "./assets/images/adaptive-icon.png",
       "backgroundColor": "#ffffff",
-      "foregroundImageUrl": "https://vijaysarin.github.io/android-index.json/assets/97dae5a0e62ad8551d8a31897b425e63"
+      "foregroundImageUrl": "https://vijaysarin.github.io/assets/97dae5a0e62ad8551d8a31897b425e63"
     },
     "package": "com.vijaysarin.expotestapplication"
   },
@@ -30,7 +30,7 @@
   "currentFullName": "@vijaysarin/expo-test-application",
   "originalFullName": "@vijaysarin/expo-test-application",
   "locales": {},
-  "iconUrl": "https://vijaysarin.github.io/android-index.json/assets/4e3f888fc8475f69fd5fa32f1ad5216a",
+  "iconUrl": "https://vijaysarin.github.io/assets/4e3f888fc8475f69fd5fa32f1ad5216a",
   "bundledAssets": [
     "asset_3a2ba31570920eeb9b1d217cabe58315.ttf",
     "asset_8b12b3e16d591abc926165fa8f760e3b.json",
@@ -84,7 +84,7 @@
   "revisionId": "QaRb6dPEb6",
   "id": "@vijaysarin/expo-test-application",
   "platform": "ios",
-  "bundleUrl": "https://vijaysarin.github.io/android-index.json/bundles/ios-97736c69227a9be4a9693b64a7423b9b.js",
+  "bundleUrl": "https://vijaysarin.github.io/bundles/ios-97736c69227a9be4a9693b64a7423b9b.js",
   "dependencies": [
     "@expo/vector-icons",
     "@react-navigation/bottom-tabs",
